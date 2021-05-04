@@ -1,0 +1,15 @@
+.comm_post_header{
+    font-size: 12px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.posted_by{
+    color:gray;
+}
+
+.comm_post_title{
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 0px;
+}

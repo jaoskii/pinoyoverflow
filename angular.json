@@ -124,6 +124,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "pinoyoverflow"
+    }
+  },
+  "defaultProject": "pinoyoverflow",
+  "cli": {
+    "analytics": "df323f3b-7a65-4e39-913e-d542e4391a5d"
+  }
 }
