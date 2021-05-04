@@ -1,7 +1,6 @@
 .comm_post_header{
     font-size: 12px;
     font-weight: bold;
-    cursor: pointer;
 }
 
 .posted_by{
@@ -12,4 +11,29 @@
     font-size: 15px;
     font-weight: bold;
     margin-top: 0px;
+}
+
+.uk-accordion-title{
+    font-weight: bold;
+    font-size: 1rem !important;
+}
+
+.home-post-btn{
+    margin-right: 10px;
+    font-size: 12px !important;
+}
+
+.home-join-btn{
+    margin-left: 15px;
+    border-radius: 10px;
+    background: #BADA55;
+    display: inline-block;
+    width: 50px;
+}
+
+@media (min-width: 1200px) {
+    .uk-card-footer {
+        padding: 5px 0px 0px !important;
+        font-weight: bold;
+    }
 }
