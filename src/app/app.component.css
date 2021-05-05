@@ -43,13 +43,16 @@
 }
 
 .home-community-logo {
-    width: 60px;
+    width: 80px;
     height: 50px;
     border-top-left-radius: 50% 50%;
     border-top-right-radius: 50% 50%;
     border-bottom-right-radius: 50% 50%;
     border-bottom-left-radius: 50% 50%;
+}
 
+.side-card-hero-bg{
+    height: 80px;
 }
 
 @media (min-width: 1200px) {
